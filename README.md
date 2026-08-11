@@ -1,107 +1,85 @@
-# Requirements – AI for Learning and Developer Product
+<!-- ===================== HEADER ===================== -->
 
-## 1. Project Title
-AI for Learning and Developer Product
+<div align="center">
 
----
+# 👋 Hey, I'm Harsh Singh
 
-## 2. Project Description
-AI for Learning and Developer Product is an AI-powered platform designed to assist students and developers by providing intelligent learning support, coding assistance, debugging help, and personalized recommendations.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Learning+%26+Building+Every+Day+%F0%9F%9A%80;Exploring+Code%2C+Technology+%26+Innovation+%F0%9F%94%A5" alt="Typing SVG" />
 
-The system aims to improve learning efficiency and developer productivity through Artificial Intelligence.
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffff&style=for-the-badge" />
 
-## 3. Objectives
-- Provide AI-based learning assistance
-- Help users understand programming concepts
-- Assist developers with code generation and debugging
-- Offer personalized learning paths
-- Improve coding skills and productivity
+</div>
 
 ---
 
-## 4. Scope
-The system will support learning and development activities through a web-based interface. It will include AI-driven explanations, coding help, and progress tracking.
+## 🧑‍💻 About Me
+
+Hey! I'm **Harsh Singh**, a B.Tech student and an aspiring software developer.
+
+I'm passionate about technology, programming, problem solving and building projects that help me improve my skills.
+
+- 🎓 Currently pursuing **B.Tech**
+- 💻 Interested in **Software Development & Programming**
+- 🌱 Currently learning and improving my development skills
+- 🧠 Interested in **DSA, DBMS, SQL, Web Development & Software Engineering**
+- 🚀 Building projects to turn ideas into working applications
+- 🔍 Always exploring new technologies
+- 🎯 Goal: Become a skilled and versatile software developer
+
+> **"Learn. Build. Break. Fix. Repeat." 🚀**
 
 ---
 
-## 5. Target Users
-- Students
-- Beginner programmers
-- Professional developers
-- Educators and trainers
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql" />
+
+</p>
 
 ---
 
-## 6. Functional Requirements
+## 🌐 Web Development
 
-### 6.1 User Management
-- User registration
-- User login and authentication
-- User profile management
-- Learning progress tracking
+<p align="center">
 
-### 6.2 Learning Module
-- AI-based concept explanation
-- Question and answer support
-- Personalized learning recommendations
-- Practice exercises and quizzes
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
-### 6.3 Developer Module
-- Code generation based on user input
-- Code debugging and error explanation
-- Code optimization suggestions
-- Support for multiple programming languages
-
-### 6.4 System Interface
-- AI-powered chat interface
-- Code input and output display
-- Feedback and suggestion system
+</p>
 
 ---
 
-## 7. Non-Functional Requirements
-- Fast response time
-- High availability
-- Secure user authentication
-- Scalable architecture
-- User-friendly interface
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+</p>
 
 ---
 
-## 8. System Requirements
+## 🛠️ Tools & Technologies
 
-### 8.1 Hardware Requirements
-- Minimum 4 GB RAM
-- Internet-enabled device (PC or mobile)
+<p align="center">
 
-### 8.2 Software Requirements
-- Web browser (Chrome, Firefox, Edge)
-- Backend server
-- AI/ML models
-- Database management system
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+
+</p>
 
 ---
 
-## 9. Constraints
-- Requires continuous internet connection
-- AI accuracy depends on training data
-- Must comply with data privacy policies
+# 📚 Currently Learning
 
----
-
-## 10. Future Enhancements
-- Mobile application
-- Voice-based AI assistant
-- Integration with IDEs
-- Collaborative learning features
-
----
-
-## 11. Conclusion
-This AI for Learning and Developer Product will provide an intelligent and personalized environment for learning and development, making education and coding more efficient and accessible.
-
-
-## GitHub Link
-https://github.com/Harshoh/REQUIREMENT.md.git
+```text
+DSA                 ███████████████░░░░░  75%
+Java                ███████████████░░░░░  75%
+Python              █████████████░░░░░░░  65%
+SQL / DBMS          ███████████████░░░░░  75%
+Web Development     ████████████░░░░░░░░  60%
+Git & GitHub        ████████████████░░░░  80%
